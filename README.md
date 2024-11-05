@@ -1,1 +1,1 @@
-# tip-checker
+# ttp-checker
